@@ -107,4 +107,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to contact:
 
 - **GitHub**: [Parsa Jafargholi](https://github.com/Parsa-Jafargholi)
-- **Email**: your_email@example.com
+- **Email**: parsa.jafarqoli@gmail.com
